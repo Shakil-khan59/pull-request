@@ -19,3 +19,7 @@ json={
 # something like this 
 print(json)
 # see their differences and analyse
+
+
+for i in 'shakil:
+   print(i)
