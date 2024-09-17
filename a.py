@@ -9,3 +9,13 @@ data.append(3)
 data.append('shakil')
 for d in data:
     print(d)
+dictionary=dict('first':1,'second':2}
+print(dictionary)
+
+json={
+    'a':1,
+    'b':2
+}
+# something like this 
+print(json)
+# see their differences and analyse
